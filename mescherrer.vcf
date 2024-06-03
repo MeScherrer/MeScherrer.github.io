@@ -1,0 +1,21 @@
+BEGIN:VCARD
+VERSION:3.0
+N:SCHERRER ;Me;;;
+FN:Me SCHERRER 
+ORG:BSAvocat
+ADR;TYPE=WORK:11 Rue Jeanne d'Arc, 30000 Nîmes
+TITLE:Avocat à Nîmes
+TEL;TYPE=CELL:+33679729233
+TEL;TYPE=WORK:+33967068503
+TEL;TYPE=HOME:
+TEL;TYPE=MSG:
+EMAIL;TYPE=WORK:contact@scherrer-avocat.fr
+URL;TYPE=Digital Business Card:
+URL:
+URL;TYPE=Location:https://osm.org/go/xV4TnQtp~?m=&node=920412527
+URL;TYPE=LinkedIn:https://linkedin.com/in/baptiste-scherrer-62828645
+URL;TYPE=Instagram:https://instagram.com/baptiste_scherrer_avocat
+KEY;TYPE=PGP;ENCODING=b:
+NOTE:
+UID:EnBizCard-100571389
+END:VCARD
